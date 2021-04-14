@@ -369,7 +369,7 @@
      }
  }
  
- @media(max-width: 375px) {
+ @media(max-width: 400px) {
      .slide_text {
          text-align: center;
          padding-bottom: 0;
